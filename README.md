@@ -1,2 +1,3 @@
-# batch
-collection of windows batch files
+- [timeit.bat](timeit.bat) 
+  - prints out the time it took for running an application.
+  - usage `timeit blah.exe ...`
